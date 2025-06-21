@@ -6,10 +6,6 @@ This project provides a modular implementation for fine-tuning Qwen2.5-VL models
 ![image](https://github.com/user-attachments/assets/358d6e81-4344-457c-87db-10f6127702b4)
 
 
-https://github.com/user-attachments/assets/80fa8857-6c25-4f25-8292-fa57b4881c16
-
-
-
 ## Installation
 
 1. Install the required dependencies:
