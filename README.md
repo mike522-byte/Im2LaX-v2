@@ -1,4 +1,4 @@
-# LaTeX OCR Fine-tuning
+<img width="754" height="308" alt="image" src="https://github.com/user-attachments/assets/5d4b642f-b670-4281-90be-03c9219f5129" /># LaTeX OCR Fine-tuning
 
 This project provides a modular implementation for fine-tuning Qwen2.5-VL models on LaTeX OCR tasks.
 [Read the paper](LatexOCR.pdf)
@@ -6,6 +6,11 @@ This project provides a modular implementation for fine-tuning Qwen2.5-VL models
 ## Results
 
 <img width="1095" height="340" alt="image" src="https://github.com/user-attachments/assets/07dba068-1666-4992-910a-5c1a854cac73" />
+
+
+## Visualize Comparison of Simple Test Case
+
+<img width="1095" height="340" alt="image" src="https://github.com/user-attachments/assets/13ee473d-56c6-46a7-ab8a-3664f2704d2a" />
 
 
 ## Installation
