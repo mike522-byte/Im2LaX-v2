@@ -3,9 +3,14 @@
 This project provides a modular implementation for fine-tuning Qwen2.5-VL models on LaTeX OCR tasks.
 [Read the paper](LatexOCR.pdf)
 
-## Fine-tuning Results
-![image](https://github.com/user-attachments/assets/358d6e81-4344-457c-87db-10f6127702b4)
-
+## Results
+| Method | BLEU Score | Character Error Rate | Exact Match | 
+|:------:|:------------------:|:-----------------:|:----------------:|
+| Base Model | 0.17 | 0.41 | 0 | 
+| Q4 Finetuned  | 0.34 | 0.32 | 0 |
+| Q8 Finetuned  | 0.89 | 0.06 | 0.37 |
+| BF16 Finetuned | **0.91** | **0.05** | **0.38** |
+| LaTeX-OCR(SOTA) | 0.84 | **0.05** | 0.35 |
 
 ## Installation
 
