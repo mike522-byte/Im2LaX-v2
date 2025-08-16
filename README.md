@@ -1,6 +1,7 @@
 # LaTeX OCR Fine-tuning
 
 This project provides a modular implementation for fine-tuning Qwen2.5-VL models on LaTeX OCR tasks.
+[Read the paper](LatexOCR.pdf)
 
 ## Fine-tuning Results
 ![image](https://github.com/user-attachments/assets/358d6e81-4344-457c-87db-10f6127702b4)
