@@ -7,8 +7,6 @@ This project provides a modular implementation for fine-tuning Qwen2.5-VL models
 
 <img width="1095" height="340" alt="image" src="https://github.com/user-attachments/assets/07dba068-1666-4992-910a-5c1a854cac73" />
 
-<img width="754" height="308" alt="image" src="https://github.com/user-attachments/assets/8dca56a9-03e5-4b33-be71-0cbdb5574cba" />
-
 
 ## Installation
 
