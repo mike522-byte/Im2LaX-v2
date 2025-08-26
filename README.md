@@ -3,6 +3,8 @@
 This project provides a modular implementation for fine-tuning VLM models on LaTeX OCR tasks.
 [Read the paper](LatexOCR.pdf)
 
+<img width="2564" height="1748" alt="SWIN-mBART" src="https://github.com/user-attachments/assets/a665d778-5164-47d2-a393-5153ee82eaf3" />
+
 ## Results
 
 <img width="1095" height="340" alt="image" src="https://github.com/user-attachments/assets/07dba068-1666-4992-910a-5c1a854cac73" />
