@@ -5,7 +5,7 @@ This project provides a modular implementation for fine-tuning VLM models on LaT
 
 <img width="2564" height="1748" alt="SWIN-mBART" src="https://github.com/user-attachments/assets/a665d778-5164-47d2-a393-5153ee82eaf3" />
 
-** Im2LaX Model Architecture **
+## Figure (Im2LaX Model Architecture)
 
 ## Results
 
