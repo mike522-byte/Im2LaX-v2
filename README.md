@@ -5,6 +5,8 @@
 This project provides a modular implementation for fine-tuning VLM models on LaTeX OCR tasks.
 [Read the paper](LatexOCR.pdf)
 
+Contributed to [MinerU](https://mineru.net/)
+
 ## Results
 
 <img width="1095" height="340" alt="image" src="https://github.com/user-attachments/assets/07dba068-1666-4992-910a-5c1a854cac73" />
